@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name_of_dish">Dish</string>
+    <string name="dish">dish</string>
+    <string name="name_of_restaurant">Restaurant</string>
+    <string name="restaurant">restaurant</string>
+    <string name="rate_meal">Rate Meal</string>
+    <string name="rating">Rating</string>
+    <string name="comment_hint">hint</string>
+    <string name="save">save</string>
+    <string name="rate_meal_prompt">Please rate the meal you had at this restaurant:</string>
+    <string name="rate_restaurant">Rate Restaurant</string>
+    <string name="Dish">Dish</string>
+    <string name="earth">earth</string>
+
+</resources>
